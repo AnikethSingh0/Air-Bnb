@@ -2,8 +2,8 @@ import React from 'react'
 import Booking from './Booking';
 const Hero = () => {
   return (
-    <div>
-        <div className='relative'>
+    <div className='relative h-[75vh]'>
+        <div>
             <div className='absolute left-[6vw] top-[11vh] z-999'>
                 <Booking  />
             </div>
